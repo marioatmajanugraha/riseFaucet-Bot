@@ -1,6 +1,7 @@
 # 🚀 RiseFaucet-Bot
 
 Script ini mengotomatiskan klaim token di faucet **Rise Testnet** dengan efisien dan rapi!
+
 ![Rise Faucet](https://github.com/user-attachments/assets/0e8d8783-6281-4262-88a0-5ea0b229b0bb)
 ---
 
