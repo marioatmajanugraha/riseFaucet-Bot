@@ -47,7 +47,7 @@ socks5://username:password@host:port
 
 ### 4. Jalankan Script
 ```
-node faucet.obf.js
+node index.obf.js
 ```
 
 ### 5. Ikuti Instruksi
